@@ -3,6 +3,6 @@ function destino(suerte) {
         case "si":
         console.log("tenees suerte"); break ;
         default:
-        console.log("tu suerte es un misterio")
+        console.log("no tenes suerte")
     }
 }
